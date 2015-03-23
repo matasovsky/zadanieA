@@ -250,7 +250,7 @@
             <!--Replace the URL below with your dribbble profile URL-->
             <a class="btn btn-default wow fadeInUp" href="http://dribbble.com/srizon" role="button">
                 <span class="btnicon icon-social-dribbble"></span>
-                <span class="button_text">View all items</span>
+                <span class="button_text">Otvoriù vöetko</span>
             </a> 
         </div><!-- PORTFOLIO SECTION END -->
 
@@ -261,7 +261,7 @@
             <div class="sectionhead wow bounceInUp" data-wow-duration="2s">
                 <span class="bigicon icon-bubbles"></span>
                 <h3>Ohlasy</h3>
-                <h4>Zop·r n·zorov mojich spokojn˝ch z·kaznÌkov ..</h4>
+                <h4>Niekoæko n·zorov mojich z·kaznÌkov ..</h4>
                 <hr class="separetor">            
             </div><!-- TESTIMONIAL SECTIONHEAD END -->
 
@@ -275,7 +275,7 @@
 
                     <div class="quote">
                         <blockquote>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia et pariatur ipsam tempora officia ea iusto expedita, nulla, hic odit saepe repellat nesciunt dolorum, officiis laborum ad, aliquam. Quos, et.</p>                        
+                            <p>Super!</p>                        
                         </blockquote>
                         <h5>Dan Cederholm</h5>
                         <p>Co-Founder, Dribbble</p>
@@ -290,7 +290,7 @@
 
                     <div class="quote">
                         <blockquote>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia et pariatur ipsam tempora officia ea iusto expedita, nulla, hic odit saepe repellat nesciunt dolorum, officiis laborum ad, aliquam. Quos, et. lorem</p>                        
+                            <p>Kvalita a spolahlivosù..</p>                        
                         </blockquote>
                         <h5>Bill S Kenney</h5>
                         <p>Art Director at Focus Lab LLC.</p>
@@ -305,7 +305,7 @@
 
                     <div class="quote">
                         <blockquote>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia et pariatur ipsam tempora officia ea iusto expedita, nulla, hic odit saepe repellat nesciunt dolorum, officiis laborum ad, aliquam. Quos, et.</p>                        
+                            <p>V˝bornÈ spracovanie.</p>                        
                         </blockquote>
                         <h5>Eric Hoffman</h5>
                         <p>Principal Designer, JellyJar</p>
@@ -320,7 +320,7 @@
 
                     <div class="quote">
                         <blockquote>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia et pariatur ipsam tempora officia ea iusto expedita, nulla, hic odit saepe repellat nesciunt dolorum, officiis laborum ad, aliquam. Quos, et.</p>                        
+                            <p>R˝chle a öt˝lovÈ rieöenia.</p>                        
                         </blockquote>
                         <h5>Ramil Derogongun</h5>
                         <p>Visual Designer, Bluroon</p>
